@@ -67,3 +67,33 @@ img{
 .recipi{
     margin-left: 30%;
 }
+
+
+.section3{
+    display: inline-flex;
+    margin-left: 4%;
+    padding: 20px;
+    
+}
+.sec3-div1{
+    box-shadow: gray 10px 10px 10px 10px;
+    margin-right: 4px;
+    padding: 10px;
+    margin-right: 5%;
+}
+.first-r{
+    margin-left: 5%;
+    
+}
+.sec3-div2{
+    box-shadow: gray 10px 10px 10px 10px;
+    margin-right: 5%;
+    
+
+}
+.sec3-div3{
+    box-shadow: gray 10px 10px 10px 10px;
+    margin-right: 5%;
+    padding: 10px;
+
+}
