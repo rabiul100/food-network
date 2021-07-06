@@ -5,7 +5,7 @@ body{
 span{
     color: chocolate;
 }
-  h1,p,a{
+h1, p,a{
      margin-left: 40%;
 
  }
@@ -72,21 +72,24 @@ img{
 .section3{
     display: inline-flex;
     margin-left: 4%;
-    padding: 20px;
+    padding: 25px;
+    text-align: justify;
     
 }
+.my-r{
+    margin-top: 5%;
+}
+    
+
 .sec3-div1{
     box-shadow: gray 10px 10px 10px 10px;
     margin-right: 4px;
     padding: 10px;
     margin-right: 5%;
 }
-.first-r{
-    margin-left: 5%;
-    
-}
+
 .sec3-div2{
-    box-shadow: gray 10px 10px 10px 10px;
+    box-shadow : gray 10px 10px 10px 10px;
     margin-right: 5%;
     
 
@@ -97,3 +100,11 @@ img{
     padding: 10px;
 
 }
+h2{
+    padding-left: 8%;
+}
+.r-ditels{
+   margin-left: 8%;
+   padding-right: 10px;
+}
+
