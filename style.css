@@ -2,6 +2,26 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0%;
 }
+.head{
+    
+    display: inline-flex;
+    padding: 20px 0px;
+    
+}
+.link{
+    text-decoration: none;
+    background-color:tomato;
+    padding: 8px;
+    color: white;
+    font-size: 25px;
+    border-radius: 7px;
+}
+
+.link:hover{
+    background-color: black;
+}
+
+
 span{
     color: chocolate;
 }
@@ -26,6 +46,7 @@ h1, p,a{
 .first-section{
     display: flex;
     text-align: justify;
+    margin-top: 5%;
 }
 .sec1-div1{
     width: 50%;
@@ -99,6 +120,17 @@ img{
     border-radius: 5%;
 
 }
+.link2{
+    border-radius: 3px;
+    display: inline-flex;
+    text-decoration: none;
+    background-color:tomato;
+    padding: 3px;
+    color: white;
+}
+.link2:hover{
+    background-color: black;
+}
 h2{
     padding-left: 8%;
 }
@@ -134,4 +166,26 @@ h2{
     width: 30%;
     padding-left: 30px;
 
+}
+.foter{
+   
+    margin-bottom: 3%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    color: white;
+   
+    background-color: black;
+}
+.span1{
+    color: coral;
+}
+.span2{
+    color:gray;
+}
+#header{
+    text-decoration: none;
+    font-size: 20px;
+}
+#header:hover{
+    background-color: tomato;
 }
